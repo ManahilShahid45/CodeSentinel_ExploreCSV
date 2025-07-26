@@ -64,4 +64,4 @@ Ensure the CSV is in the same folder or specify its path in the script.
 
 ```bash
 pip install pandas
-python csv_data_explorer.py
+jupyter notebook CodeSentinel_Task01.ipynb
